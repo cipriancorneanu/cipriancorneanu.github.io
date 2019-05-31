@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ciprian Corneanu</title>
+    <link>https://cipriancorneanu.github.io/home/</link>
+    <description>Recent content in Homes on Ciprian Corneanu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://cipriancorneanu.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://cipriancorneanu.github.io/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://cipriancorneanu.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cipriancorneanu.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/about/</guid>
+      <description>Biography I am a Research Assistant at the University of Barcelona (Spain). I received the BSc degree in telecommunication engineering from Telecom SudParis in 2011, and the MSc degree in Computer vision from Universitat Autonoma de Barcelona (UAB). I am currently working toward the PhD degree (expected, 2019) at the Universitat de Barcelona. I am a fellow of the Computer Vision Center, UAB. My main research interests include deep learning, face and behavior analysis, affective computing, social signal processing, and human-computer interaction.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://cipriancorneanu.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://cipriancorneanu.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/publications_selected/</guid>
+      <description>Corneanu, Ciprian A., Meysam Madadi, and Sergio Escalera. &amp;ldquo;Deep Structure Inference Network for Facial Action Unit Recognition.&amp;rdquo;, European Conference in Computer Vision, ECCV (2018) pdf poster
+Corneanu, C. A., Marc Oliu, Jeffrey Cohn, and Sergio Escalera. &amp;ldquo;Survey on rgb, 3d, thermal, and multimodal approaches for facial expression recognition: History, trends, and affect-related applications.&amp;rdquo; IEEE Transactions in Pattern Aanalysis and Machine Intelligence, TPAMI (2016). pdf
+Kulkarni, Kaustubh, Ciprian Corneanu, Ikechukwu Ofodile, Sergio Escalera, Xavier Baró, Sylwia Hyniewska, Juri Allik, and Gholamreza Anbarjafari.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://cipriancorneanu.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://cipriancorneanu.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://cipriancorneanu.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
