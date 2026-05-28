@@ -1226,6 +1226,39 @@ article .article-metadata {
   color: #00b4d8;
 }
 
+.dark .pub-card .pub-title {
+  color: #fff;
+}
+
+.dark .pub-card .pub-authors {
+  color: rgba(255,255,255,0.6);
+}
+
+.dark .pub-card .pub-venue {
+  color: rgba(255,255,255,0.5);
+}
+
+.dark .pub-card .pub-links a {
+  color: #00b4d8;
+}
+
+.dark .pub-card:hover {
+  background-color: rgba(255,255,255,0.03);
+}
+
+.dark .pub-card .pub-thumb {
+  box-shadow: 0 1px 4px rgba(0,0,0,0.4);
+}
+
+.dark .pub-scholar-note {
+  color: rgba(255,255,255,0.6);
+  border-top-color: rgba(255,255,255,0.1);
+}
+
+.dark .pub-scholar-note a {
+  color: #00b4d8;
+}
+
 @media screen and (max-width: 768px) {
   .pub-card .pub-thumb {
     width: 70px;
