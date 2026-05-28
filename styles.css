@@ -1154,21 +1154,26 @@ article .article-metadata {
 }
 
 .pub-card .pub-thumb {
-  flex-shrink: 0;
+  flex: 0 0 100px;
   width: 100px;
+  min-width: 100px;
+  max-width: 100px;
   height: 130px;
   overflow: hidden;
   border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
-.pub-card .pub-thumb img {
-  width: 100% !important;
-  height: 100% !important;
+.pub-card .pub-thumb img,
+.pub-card .pub-thumb img[alt] {
+  width: 100px !important;
+  height: 130px !important;
   max-width: 100px !important;
+  max-height: 130px !important;
   object-fit: cover;
   object-position: top left;
-  display: block;
+  display: block !important;
+  margin: 0 !important;
 }
 
 .pub-card .pub-details {
